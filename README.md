@@ -22,9 +22,8 @@
 返回示例：
 
 ```
-搜索关键词：剑星
-1. 【quark】STELLAR BLADE ORIGINAL SOUNDTRACK PLUS (2025) FLAC Hi-Res  游戏音乐 - https://pan.quark.cn/s/a5e07ddbc348
-2. 【quark】剑星试玩版 v20250911 游戏+角色扮演+原声音乐189首+大型mod整合版+试玩版+完美服装+修改器 - https://pan.quark.cn/s/5d3ea37d4f48
+搜索关键词：xx
+1. 【quark】xxxx - https://pan.quark.cn/s/xxxxxxxxx
 ```
 
 ## 配置
