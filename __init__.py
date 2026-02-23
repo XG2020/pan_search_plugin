@@ -21,7 +21,7 @@ plugin = NekroPlugin(
     description="根据关键词搜索网盘资源并返回名称与链接",
     version="1.0.1",
     author="XGGM",
-    url="https://github.com/example/pan-search-plugin",
+    url="https://github.com/XG2020/pan_search_plugin",
 )
 
 # ---------- 配置 ----------
