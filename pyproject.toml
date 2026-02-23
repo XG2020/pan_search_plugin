@@ -1,0 +1,73 @@
+[tool.poetry]
+name = "pan_search"
+version = "1.0.0"
+description = "网盘搜索插件"
+authors = ["XG.GM <tencenot@vip.qq.com>"]
+readme = "README.md"
+packages = []
+repository = "https://github.com/XG2020/pan_search_plugin"
+
+
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+nekro-agent = ">=1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+# [[tool.poetry.source]]
+# name = "aliyun"
+# url = "https://mirrors.aliyun.com/pypi/simple/"
+# priority = "primary"
+
+[tool.black]
+line-length = 128
+
+[tool.ruff]
+extend-exclude = []
+ignore = [
+    "E402",
+    "E501",
+    "E722",
+    "B008",
+    "B905",
+    "F401",
+    "TID252",
+    "TRY002",
+    "TRY003",
+    "RUF001",
+    "RUF002",
+    "RUF003",
+    "RUF006",
+    "RUF012",
+    "RUF100",
+    "PGH003",
+    "N801",
+    "A003",
+]
+select = [
+    "F",
+    "E",
+    "I",
+    "B",
+    "A",
+    "COM",
+    "C4",
+    "ISC",
+    "PIE",
+    "PYI",
+    "Q",
+    "RSE",
+    "RET",
+    "SLF",
+    "SIM",
+    "TID",
+    "ARG",
+    "PTH",
+    "PGH",
+    "TRY",
+    "RUF",
+]
